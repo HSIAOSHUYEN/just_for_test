@@ -1,0 +1,2 @@
+輸入法切換->視窗鍵+空白鍵
+切換到字首or字尾 ctrl+a or ctrl+e or home/end
